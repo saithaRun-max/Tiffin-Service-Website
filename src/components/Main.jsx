@@ -3,6 +3,7 @@ import Footer from "./Footer/Footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import CartContainer from "./Body/CartWraper/CartContainer";
 import CardContainer from "./Body/mainCardsWraper/CardContainer";
+import About from "./Body/AboutPage/About";
 
 const Main = () => {
   return (
@@ -12,6 +13,7 @@ const Main = () => {
         <Routes>
           <Route errorElement={<h2>Error 404</h2>}></Route>
           <Route path="/" element={<CardContainer />}></Route>
+          <Route path="/about" element={<About />}></Route>
           <Route path="/cart" element={<CartContainer />}></Route>
         </Routes>
         <Footer />

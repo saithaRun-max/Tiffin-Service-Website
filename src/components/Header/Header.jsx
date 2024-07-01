@@ -3,7 +3,7 @@ import HeaderRight from "./headerRightContainer/HeaderRight";
 
 const Header = () => {
   return (
-    <div className="h-[10%] bg-slate-200 w-screen p-2 flex justify-between ">
+    <div className="h-[10%] bg-slate-200 w-screen p-2 flex justify-between px-[10%] ">
       <HeaderLeft />
       <HeaderRight />
     </div>

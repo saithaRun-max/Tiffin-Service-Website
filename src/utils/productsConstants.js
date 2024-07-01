@@ -1,6 +1,5 @@
-{
-  sections: {
-    SECTION_SEARCH_RESULT: [
+
+    export const restaurantsData = [
       {
         type: "restaurant",
         info: {
@@ -1764,5 +1763,3 @@
         bottomContainers: [],
       },
     ];
-  }
-}
