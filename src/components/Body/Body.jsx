@@ -1,12 +1,14 @@
 import React from 'react'
 import CardContainer from './mainCardsWraper/CardContainer'
+import CartContainer from './CartWraper/CartContainer';
 
-const MainWraper = () => {
+const Body = () => {
   return (
     <div>
-      <CardContainer />
+      {/* <CardContainer /> */}
+      <CartContainer />
     </div>
   )
 }
 
-export default MainWraper
+export default Body;
