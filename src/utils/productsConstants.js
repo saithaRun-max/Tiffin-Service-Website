@@ -78,53 +78,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Mac and Cheese Pasta",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/asian/",
-              name: "Asian",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/italian/",
-              name: "Italian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/modern-indian/",
-              name: "Modern Indian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc3XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/sushi/",
-              name: "Sushi",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -239,29 +216,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/european/",
-              name: "European",
+            {name:"Veg Biryani [Single]",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
+            {name:"Egg Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
-              name: "Pizza",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
+            },
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -365,35 +343,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
+            {name:"Special Chicken Biryani",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDlcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/hyderabadi/",
-              name: "Hyderabadi",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/finger-food/",
-              name: "Finger Food",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
-              name: "Pizza",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -505,41 +478,30 @@
             color: "#e5521f",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
-              name: "Chinese",
+            {name:"Apollo Fish Biryani",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/salad/",
-              name: "Salad",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
-              name: "Fast Food",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -650,53 +612,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
-              name: "Bar Food",
+            {name:"Egg Biryani",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
-              name: "Chinese",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/italian/",
-              name: "Italian",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/japanese/",
-              name: "Japanese",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -801,29 +740,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Apollo Fish Biryani",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/mediterranean/",
-              name: "Mediterranean",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
+            },
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -929,35 +869,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Chicken Dum Biryani [Single]",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
-              name: "Fast Food",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/shake/",
-              name: "Shake",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/waffle/",
-              name: "Waffle",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2OFwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/pancake/",
-              name: "Pancake",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -1062,53 +997,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Veg Biryani [Single]",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/mughlai/",
-              name: "Mughlai",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/italian/",
-              name: "Italian",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/sea-food/",
-              name: "Seafood",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/asian/",
-              name: "Asian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
-              name: "Fast Food",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -1221,53 +1133,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Mac and Cheese Pasta",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/salad/",
-              name: "Salad",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
-              name: "Fast Food",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/italian/",
-              name: "Italian",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/asian/",
-              name: "Asian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
-              name: "Bar Food",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -1379,41 +1268,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/finger-food/",
-              name: "Finger Food",
+            {name:"Mac and Cheese Pasta",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/chinese/",
-              name: "Chinese",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/mughlai/",
-              name: "Mughlai",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/fast-food/",
-              name: "Fast Food",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -1451,7 +1329,7 @@
         type: "restaurant",
         info: {
           resId: 18464791,
-          name: "Amnesia Lounge Bar",
+          name: "Biryani Palace",
           image: {
             url: "https://b.zmtcdn.com/data/pictures/1/18464791/06d9ccf9588d94e4591a8ba5350daf39_featured_v2.jpg",
             urlWithParams:
@@ -1525,53 +1403,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
-              name: "Bar Food",
+            {name:"Apollo Fish Biryani",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/american/",
-              name: "American",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/pasta/",
-              name: "Pasta",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/street-food/",
-              name: "Street Food",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/pizza/",
-              name: "Pizza",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/asian/",
-              name: "Asian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/desserts/",
-              name: "Desserts",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
@@ -1682,53 +1537,30 @@
             color: "",
           },
           cuisine: [
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/bar-food/",
-              name: "Bar Food",
+            {name:"Mac and Cheese Pasta",
+              price:19000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/8c8/614721024dae8e79da1186a227d528c8.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/italian/",
-              name: "Italian",
+            {name:"Chicken Biryani",
+              price:36200,
+              description:"Chicken Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/f9f/dcc8279a1db85f7738ceb91efa030f9f.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/asian/",
-              name: "Asian",
+            {name:"Mutton Biryani",
+              price:46200,
+              description:"Mutton Biryani",
+              img:"https://b.zmtcdn.com/data/dish_photos/40e/92d628b032327e04a8002671c070940e.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/finger-food/",
-              name: "Finger Food",
+            {name:"Curd Rice",
+              price:20000,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/df5/51b37272b4ac255f999a8304015a9df5.jpg?fit=around|130:130&crop=130:130;*,*"
             },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/north-indian/",
-              name: "North Indian",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/continental/",
-              name: "Continental",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
-              url: "https://www.zomato.com/hyderabad/restaurants/coffee/",
-              name: "Coffee",
-            },
-            {
-              deeplink:
-                "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-              url: "https://www.zomato.com/hyderabad/restaurants/beverages/",
-              name: "Beverages",
+            {name:"Special Veg Biryan",
+              price:29500,
+              description:null,
+              img:"https://b.zmtcdn.com/data/dish_photos/538/a9c2975edb00aea60868c3d8b945e538.jpg?fit=around|130:130&crop=130:130;*,*"
             },
           ],
           should_ban_ugc: false,
