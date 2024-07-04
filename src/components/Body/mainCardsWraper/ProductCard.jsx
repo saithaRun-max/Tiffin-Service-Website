@@ -30,7 +30,7 @@ const ProductCard = ({ info }) => {
       </div>
       <div>
         <p className="pt-1 font-light text-gray-500 ">
-          {cuisine[0].name}, {cuisine[1].name}, {cuisine[2].name}
+          {cuisine[0].name}, {cuisine[1].name}
         </p>
       </div>
       <div>

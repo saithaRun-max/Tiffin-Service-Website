@@ -43,7 +43,7 @@ const MenuPage = ({ heading, restaurantInfo }) => {
           </div>
         </div>
         <div className="">
-          <CartContainer heading={heading} items={cuisine} isCloseBtnStatus={false} menuPage={true} />
+          <CartContainer heading={heading} itemCard={cuisine} isCloseBtnStatus={false} menuPage={true} />
         </div>
       </div>
     </div>

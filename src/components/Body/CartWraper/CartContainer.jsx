@@ -1,13 +1,15 @@
-import React from "react";
+import React, { useContext } from "react";
 import CartCard from "./CartCard";
 import { RxCross2 } from "react-icons/rx";
+import userContext from "../../../utils/userContext";
 
-const CartContainer = ({ heading, isCloseBtnStatus, items,menuPage }) => {
+const CartContainer = ({ heading, isCloseBtnStatus, itemCard,menuPage }) => {
+  const {setCartInfo,cartInfo} = useContext(userContext);
   return (
     <>
       <div className="flex justify-between">
         <div></div>
-        <div className=" w-[580px]">
+        <div className=" w-[580px] h-full">
           <div className="h-screen p-4  rounded-sm backdrop-blur-xl shadow-lg flex flex-col bg-gradient-to-r from-gray-500">
             <div className="flex align-bottom justify-between">
               <h4 className="font-semibold text-2xl text-slate-200">
@@ -18,9 +20,9 @@ const CartContainer = ({ heading, isCloseBtnStatus, items,menuPage }) => {
               ) : null}
             </div>
             <div className=" flex justify-between align-middle"></div>
-            <div className="mt-4">
-              {items.map((item) => (
-                <CartCard {...item} menuPage={menuPage}/>
+            <div className="mt-4 h-[560px] overflow-y-scroll">
+              {itemCard.map((item) => (
+                <CartCard {...item} menuPageStatus={menuPage} onClick={()=>setCartInfo([...cartInfo, item ])}/>
               ))}
             </div>
           </div>

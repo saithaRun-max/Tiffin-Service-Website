@@ -3,9 +3,8 @@ import { MdDelete } from "react-icons/md";
 import { MdCurrencyRupee } from "react-icons/md";
 import { IoAddCircle } from "react-icons/io5";
 
-const CartCard = (props) => {
-  console.log(props);
-  const {name, img, price,description,menuPage} = props;
+const CartCard = ({name, img, price,description,menuPageStatus}) => {
+
   return (
     <div>
       <div className="w-[490px] mx-[10px] mb-6 border rounded-md shadow-md flex p-2 align-middle justify-between">
@@ -32,7 +31,7 @@ const CartCard = (props) => {
         <div className="mt-6">
           
          {
-          menuPage ? <IoAddCircle className="text-2xl cursor-pointer " /> : <MdDelete className="text-2xl cursor-pointer " />
+          menuPageStatus ? <IoAddCircle className="text-2xl cursor-pointer " /> : <MdDelete className="text-2xl cursor-pointer " />
          }
           
         </div>
